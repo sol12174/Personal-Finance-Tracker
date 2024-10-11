@@ -1,0 +1,5 @@
+C:\Users\l\Documents\Visual Studio 2008\Projects\Personal Finance Tracker\Personal Finance Tracker\obj\Release\ResolveAssemblyReference.cache
+C:\Users\l\Documents\Visual Studio 2008\Projects\Personal Finance Tracker\Personal Finance Tracker\bin\Release\Personal Finance Tracker.exe
+C:\Users\l\Documents\Visual Studio 2008\Projects\Personal Finance Tracker\Personal Finance Tracker\bin\Release\Personal Finance Tracker.pdb
+C:\Users\l\Documents\Visual Studio 2008\Projects\Personal Finance Tracker\Personal Finance Tracker\obj\Release\Personal Finance Tracker.exe
+C:\Users\l\Documents\Visual Studio 2008\Projects\Personal Finance Tracker\Personal Finance Tracker\obj\Release\Personal Finance Tracker.pdb
